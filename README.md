@@ -3,7 +3,7 @@
 # 🧠 Actividad Sumativa Semana 5 – Desarrollo Orientado a Objetos I
 
 ## 👤 Autor del proyecto
-- **Nombre completo:** Rodrigo Vásquez
+- **Nombre completo:** Rodrigo Vásquez Alarcón
 - **Sección:** 002A
 - **Carrera:** Analista Programador Computacional
 - **Sede:** Online
